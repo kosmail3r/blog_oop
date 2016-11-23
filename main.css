@@ -1,0 +1,48 @@
+.all-posts {
+    height: 30em;
+    overflow: scroll;
+}
+
+.post {
+    border: solid 1px black;
+}
+
+.postTitle {
+    text-align: center;
+    font-size: large;
+}
+
+.postbody {
+    color: #aab3a6;
+}
+
+.postOptions {
+    text-align: right;
+    position: relative;
+}
+
+#add {
+    color: blue;
+}
+
+#atn {
+    color: red;
+}
+
+
+
+.comments {
+    margin-top: 10px;
+}
+
+.commentInfo {
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.commentpost {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
